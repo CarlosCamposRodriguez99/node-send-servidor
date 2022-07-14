@@ -1,3 +1,0 @@
-
-
-exports.autenticarUsuario = async (req)
